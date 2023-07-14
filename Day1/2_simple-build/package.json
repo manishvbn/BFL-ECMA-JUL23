@@ -1,0 +1,12 @@
+{
+  "name": "2_simple-build",
+  "version": "1.0.0",
+  "description": "Simple Webpack Build",
+  "private": true,
+  "author": "Manish",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "app-modules",
+  "private": true,
+  "main": "abc.js"
+}
